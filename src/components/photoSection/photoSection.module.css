@@ -1,0 +1,19 @@
+.presentation_label{
+  color: white;
+  top: 50%;
+  left: 10%;
+  position: absolute;
+}
+.luana_image{
+  width: 100vw;
+  height: 75vh;
+  object-fit: cover;
+}
+.name{
+  font-family:monospace;
+  font-size:70px;
+  cursor: pointer;
+}
+mark{
+  background-color: yellow;
+}
